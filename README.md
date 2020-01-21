@@ -1,5 +1,7 @@
 # hello-world
 
+This is the visit via branch eleven. The content from branch ten has been correctly incorporated below. I'm now making a larger chart and noting differences between the "hello world" guide and the actual GitHub interface and I'll be looking for any errors I might introduce in my flow chart via subsequent editing passes. (In text editing, where I am right now, the idiosyncratic "end" button behavior remains confusing.)
+
 This is visit ten. I've attempted to write out a flow chart of the 10 GitHub steps (ignoring for now the plethora of little intermediate steps) required to execute what used to be three steps: 
 (1) open the document  
 (2) edit the document  
