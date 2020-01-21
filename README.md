@@ -1,4 +1,6 @@
 # hello-world
+Uh oh. I think this is visit seven, and for some reason I don't see visit six. I'm puzzled. Onward.
+
 Visit five. The excitement is palpable! This also has me thinking about two other pieces of collaboration software: Google Drive and Wikipedia. Can you imagine the sleek design of the organization behind Wikipedia manages the content of the "Donald Trump" page while still freely allowing anyone to edit any Wikipedia page at any time? And as a contributer to Wikipedia, you just start writing. No user name, no account, no password.
 
 OK, here I am for visit four. Please disregard the above. That is from the future.
