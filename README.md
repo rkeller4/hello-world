@@ -1,5 +1,9 @@
 # hello-world
-When I created this GitHub account, I found GitHub rejected a perfectly strong password as "being too weak". This suggests that the authors of GitHub either don't understand the current state of encryption or else they need to update the password creation code.
+Here I am, back for my third visit. I wonder what that bold title above this sentence means. Why the hash-mark. Other than that, I am delighted to be here! What a PLACE.
+
+Now to see if I can successfully get out of my third visit and go back to my COMPLETELY BORING life.
+
+When I created this GitHub account, I found GitHub rejected a perfectly strong password as "being too weak". The authors of GitHub ought to update their password creation code.
 
 The initial login page offers a "Hello World" guide. When I opened that "Hello World" guide, I read a note that said "this guide will be created in a new tab so you can still refer to your initial page!" This note should be on the initial page as part of the introduction of the "Hello World" guide, not in the "Hello World" guide itself.
 
