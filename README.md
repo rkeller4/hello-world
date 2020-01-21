@@ -1,4 +1,6 @@
 # hello-world
+Now I'm back for visit nine.
+
 Now I'm back for visit eight.
 
 Uh oh. I think this is visit seven, and for some reason I don't see visit six. I'm puzzled. Onward.
