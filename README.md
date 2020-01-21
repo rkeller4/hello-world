@@ -1,17 +1,43 @@
 # hello-world
 
+BRANCH TWELVE HERE. (From now on I intend to call "Hello World" the "guide" and the GitHub UI the "UI".) It concerns me that I'm just now noticing some differences between the guide and the UI after eleven editing sessions. I wasn't even aware of the differences until now because I think I was too caught up in the struggle with the overall complexity of the UI and guide. 
+
+That seems like a recipe for trouble, especially since what I am doing now - a sole user opening a single Repo/Repository/master branch repeatedly - is likely to be so simple compared to sharing and collaborating with other people on any number of simultaneous branches. (That is just my guess as to where this is headed.)
+
+I would like to try decorating this text a little - fonts, headings, tables, bulleted lists. (Right now I'm making notes on paper.) I see nothing on this current page that suggests how to do any of that typical word processing. I've opened "Settings" before, but I hesitate to do so now. I right-click on settings and I get no information. What happened to the convention that a right click explains the consequences of a left click? So now I go ahead and left click on "Settings" and I get the message "Leave site? Changes may not be saved." This is suboptimal design.
+
+Oh, I just discovered that I can highlight a word, right click, and get the option of a spell check. Does it do a spell check? No.
+
+Can I just write in some other editor and then copy/paste content into here? Bet I can't.
+
+I just left clicked the "Actions" menu item and got the same "Leave site?" message. I clicked on "Insights" and same thing ("Leave site?") Pathetic design.
+
+COMMIT CHANGES
+
+In visit eleven, below, I noted that when I wished to end the editing cycle, the guide said to click the UI "commit changes" button, but the UI contained no such button. (I looked for it very carefully.) Now, on this 12th pass, I scroll down and now there is a "commit changes" button. I have no idea why. Bye for now.
+
+ELEVEN
+
 This is the visit via branch eleven. The content from branch ten has been correctly incorporated below. I'm now making a larger chart and noting differences between the "hello world" guide and the actual GitHub interface and I'll be looking for any errors I might introduce in my flow chart via subsequent editing passes. (In text editing, where I am right now, the idiosyncratic "end" button behavior remains confusing.)
 
-This is visit ten. I've attempted to write out a flow chart of the 10 GitHub steps (ignoring for now the plethora of little intermediate steps) required to execute what used to be three steps: 
-(1) open the document  
-(2) edit the document  
-(3) save the document
+TEN
+
+This is visit ten. I've attempted to write out a flow chart of the 10 GitHub steps (ignoring for now the plethora of little intermediate steps) required to execute what typically would be three steps: 
+(1) open document  
+(2) edit document  
+(3) save document
 
 I'll follow my flow chart and see if this text gets into the "Repo" "Repository" "master branch".
 
+NINE
+
 Now I'm back for visit nine.
 
+EIGHT
+
 Now I'm back for visit eight.
+
+SEVEN
 
 Uh oh. I think this is visit seven, and for some reason I don't see visit six. I'm puzzled. Onward.
 
