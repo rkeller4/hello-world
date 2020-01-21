@@ -1,4 +1,12 @@
 # hello-world
+
+This is visit ten. I've attempted to write out a flow chart of the 10 GitHub steps (ignoring for now the plethora of little intermediate steps) required to execute what used to be three steps: 
+(1) open the document  
+(2) edit the document  
+(3) save the document
+
+I'll follow my flow chart and see if this text gets into the "Repo" "Repository" "master branch".
+
 Now I'm back for visit nine.
 
 Now I'm back for visit eight.
