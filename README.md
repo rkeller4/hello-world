@@ -1,9 +1,9 @@
 # hello-world
-OK, here I am for visit four.
+Visit five. The excitement is palpable! This also has me thinking about two other pieces of collaboration software: Google Drive and Wikipedia. Can you imagine the sleek design of the organization behind Wikipedia manages the content of the "Donald Trump" page while still freely allowing anyone to edit any Wikipedia page at any time? And as a contributer to Wikipedia, you just start writing. No user name, no account, no password.
 
-Here I am, back for my third visit. I wonder what that bold title above this sentence means. Why the hash-mark. Other than that, I am delighted to be here! What a PLACE.
+OK, here I am for visit four. Please disregard the above. That is from the future.
 
-Now to see if I can successfully get out of my third visit and go back to my COMPLETELY BORING life.
+Here I am, back for my third visit. I am delighted to be here! What a PLACE. Now to see if I can successfully get out of my third visit and go back to my COMPLETELY BORING life.
 
 When I created this GitHub account, I found GitHub rejected a perfectly strong password as "being too weak". The authors of GitHub ought to update their password creation code.
 
