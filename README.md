@@ -1,5 +1,8 @@
 # hello-world
 
+BRANCH THIRTEEN
+Just noticed for the first time that when I open this "Repo-Repository-master branch", it appears I can just start editing it directly. The guide doesn't directly mention that. I wonder if I have edited the Repo directly in any of these 13 sessions and I didn't realize it. Maybe that could account for some differences between the UI and the guide. Forging on.
+
 BRANCH TWELVE HERE. (From now on I intend to call "Hello World" the "guide" and the GitHub UI the "UI".) It concerns me that I'm just now noticing some differences between the guide and the UI after eleven editing sessions. I wasn't even aware of the differences until now because I think I was too caught up in the struggle with the overall complexity of the UI and guide. 
 
 That seems like a recipe for trouble, especially since what I am doing now - a sole user opening a single Repo/Repository/master branch repeatedly - is likely to be so simple compared to sharing and collaborating with other people on any number of simultaneous branches. (That is just my guess as to where this is headed.)
