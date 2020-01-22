@@ -1,5 +1,25 @@
 # hello-world
 
+BRANCH FIFTEEN
+
+And here I am writing in branch 15. Trying to understand "commit" and "pull request".
+
+The guide says that a "commit" is a "saved change". I don't understand this, because there is no reason why any piece of modern software would not be constantly saving its state. This is the era of the cloud. Saving is fast and cheap. Amazon will save 45 gigs for me for zero cost.
+
+The manual goes on to say that "each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why." That seems a little mysterious. I guess you could give a general outline of what you did, but the actual record of what you did is what you did, which is in the branch. So I'm still mystified by the function of a "commit". The term itself seems to offer no clue.
+
+I notice also that at the bottom of this page, the ui says "commit directly to fifteen branch".
+
+And I just asked Laura about a "commit" and she says that for her group, the manual description "doesn't fit", sort of. 
+
+And Laura also just mentioned a "pr", which means a "pull request". The manual says this about a "pull request": "When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch."
+
+I wonder if I will ever graduate to seeing someone else's comments right in this "Repo, Repository, master branch".
+
+I have to mention that sharing a file of any format is a trivial task on Google Drive, and multiple people can instantly be working on the same file.
+
+"commit" and "pr" or "pull request". Ok, I'm out of here.
+
 BRANCH FOURTEEN
 
 übung macht. Familiarity breeds familiarity.
